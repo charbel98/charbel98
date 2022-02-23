@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charbel Beainy</h1>
 <h3 align="center">A passionate full stack developer from Lebanon</h3>
 
-- 🌱 I’m currently learning **AWS, Kubernetes, RabitMQ**
+- 🌱 I’m currently learning **AWS, Azure, Kubernetes, RabitMQ**
 
 - 💬 Ask me about **Angular, ASP .net core, Typescript**
 
