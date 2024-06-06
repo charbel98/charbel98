@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Angular, ASP .net core, Typescript**
 
-- 📫 How to reach me **cbeainy.info@gmail.com / charbelbeainy95@gmail.com**
+- 📫 How to reach me **charbel@nymatic.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
